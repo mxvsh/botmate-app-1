@@ -1,15 +1,15 @@
 {
-  "name": "botmate-app",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "xencodes",
-  "license": "ISC",
-  "dependencies": {
-    "botmate": "0.0.1-alpha.24"
-  }
+	"name": "botmate-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "xencodes",
+	"license": "ISC",
+	"dependencies": {
+		"botmate": "0.0.1-alpha.24"
+	}
 }
